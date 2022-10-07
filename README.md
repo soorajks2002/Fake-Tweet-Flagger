@@ -18,8 +18,8 @@ Run the streamlit app
     
 ## Screenshots
 
-![App Screenshot](Screenshot 2022-08-26 174833.png)
+![App Screenshot](https://raw.githubusercontent.com/soorajks2002/Fake-Tweet-Flagger/main/Screenshots/image_1.png)
 
 
-![App Screenshot](Screenshot 2022-08-26 174914.png)
+![App Screenshot](https://raw.githubusercontent.com/soorajks2002/Fake-Tweet-Flagger/main/Screenshots/image_2.png)
 
